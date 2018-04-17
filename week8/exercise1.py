@@ -17,7 +17,7 @@ def greet(name="Towering Timmy"):
     return a string of "Hello" and the name argument.
     E.g. if given as "Towering Timmy" it should return "Hello Towering Timmy"
     """
-    pass
+    return ("hello ") + "Towering Timmy"
 
 
 def three_counter(input_list=[1, 4, 3, 5, 7, 1, 3, 2, 3, 3, 5, 3, 7]):
@@ -26,7 +26,7 @@ def three_counter(input_list=[1, 4, 3, 5, 7, 1, 3, 2, 3, 3, 5, 3, 7]):
     Return an integer.
     TIP: the test will use a different input_list, so don't just return 5
     """
-    pass
+    return iter=3
 
 
 def fizz_buzz():
@@ -45,7 +45,7 @@ def fizz_buzz():
     """
     fizzBuzzList = []
     # your code here
-    return fizzBuzzList
+    return fizzBuzzList = for x in range(101):print"fizz"[x%3*4::]+"buzz"[x%5*4::]or x
 
 
 def put_behind_bars(input_string="very naughty boy"):
@@ -57,7 +57,7 @@ def put_behind_bars(input_string="very naughty boy"):
     TIP: conside using the 'join' method in Python.
     TIP: make sure that you have a pipe on both ends of the string.
     """
-    pass
+    return join("|") in str
 
 
 def pet_filter(letter="a"):
@@ -70,7 +70,7 @@ def pet_filter(letter="a"):
             "bali cattle", "gayal", "turkey", "goldfish", "rabbit", "koi",
             "canary", "society finch", "fancy mouse", "siamese fighting fish",
             "fancy rat and lab rat", "mink", "red fox", "hedgehog", "guppy"]
-    pass
+    return 
 
 
 def best_letter_for_pets():
@@ -81,7 +81,7 @@ def best_letter_for_pets():
     """
     import string
     the_alphabet = string.ascii_lowercase
-    pass
+    return ("letter")
 
 
 def make_filler_text_dictionary():
